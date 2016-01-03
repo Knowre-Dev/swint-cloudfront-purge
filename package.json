@@ -22,10 +22,13 @@
   "bugs": {
     "url": "https://github.com/KnowRe/swint-cloudfront-purge/issues"
   },
+  "engines": {
+    "node": ">=4.0.0"
+  },
   "homepage": "https://github.com/KnowRe/swint-cloudfront-purge",
   "dependencies": {
     "cloudfront": "^0.3.3",
-    "swint-helper": "^0.1.7"
+    "swint-helper": "1.x"
   },
   "devDependencies": {
     "mocha": "*",
