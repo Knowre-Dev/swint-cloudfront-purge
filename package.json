@@ -1,6 +1,6 @@
 {
   "name": "swint-cloudfront-purge",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "AWS Cloudfront purge function for Swint batch task manager(swint-task)",
   "main": "lib/index.js",
   "scripts": {
