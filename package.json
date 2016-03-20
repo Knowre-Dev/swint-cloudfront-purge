@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/KnowRe/swint-cloudfront-purge.git"
+    "url": "https://github.com/KnowRe-Dev/swint-cloudfront-purge.git"
   },
   "keywords": [
     "swint",
@@ -20,12 +20,12 @@
   "contributors": [],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/KnowRe/swint-cloudfront-purge/issues"
+    "url": "https://github.com/KnowRe-Dev/swint-cloudfront-purge/issues"
   },
   "engines": {
     "node": ">=4.0.0"
   },
-  "homepage": "https://github.com/KnowRe/swint-cloudfront-purge",
+  "homepage": "https://github.com/KnowRe-Dev/swint-cloudfront-purge",
   "dependencies": {
     "cloudfront": "^0.3.3",
     "swint-helper": "1.x"
