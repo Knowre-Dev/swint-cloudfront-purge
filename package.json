@@ -27,11 +27,11 @@
   },
   "homepage": "https://github.com/KnowRe-Dev/swint-cloudfront-purge",
   "dependencies": {
-    "cloudfront": "^0.3.3",
+    "cloudfront": "^0.4.1",
     "swint-helper": "1.x"
   },
   "devDependencies": {
-    "mocha": "^2.5.3",
-    "eslint": "^2.11.1"
+    "mocha": "^3.2.0",
+    "eslint": "^3.14.1"
   }
 }
