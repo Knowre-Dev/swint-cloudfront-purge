@@ -1,3 +1,9 @@
+2019.03.06, Version 1.0.12
+ * Update : travis deploy secure-key
+ * Fix: update error handling
+ * Upgrade: Upgraded node version & dependencies
+ * Build: update travis env secure key
+
 2017.12.05, Version 1.0.11
  * Upgrade: Upgraded node version & dependencies
 
